@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnkitPandey6241
-- 👀 I’m interested in Android App Developer | Java | C++ | XML|Python| DSA
+- 👀 I’m interested in Android App Developer | Java | C++ | XML| DSA
 - 🌱 I’m currently Persuing Computer Science Engineering  at I K Gujral Punjab Technical University
 - 📫 How to reach me ankitkumarpandey6241@gmail.com
 
